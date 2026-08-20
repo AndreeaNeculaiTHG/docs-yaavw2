@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-91ceii.assetshst.online/sitemap.xml
